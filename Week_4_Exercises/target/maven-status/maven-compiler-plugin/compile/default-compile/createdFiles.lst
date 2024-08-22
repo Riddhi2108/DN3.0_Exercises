@@ -1,0 +1,14 @@
+com\example\bookstoreapi\InvalidInputException.class
+com\example\bookstoreapi\BookNotFoundException.class
+com\example\bookstoreapi\ModelMapperConfig.class
+com\example\bookstoreapi\Book.class
+com\example\bookstoreapi\BookRepository.class
+com\example\bookstoreapi\BookController.class
+com\example\bookstoreapi\CustomerDTO.class
+com\example\bookstoreapi\GlobalExceptionHandler.class
+com\example\bookstoreapi\CustomerRepository.class
+com\example\bookstoreapi\Customer.class
+com\example\bookstoreapi\BookstoreapiApplication.class
+com\example\bookstoreapi\BookDTO.class
+com\example\bookstoreapi\CustomerController.class
+com\example\bookstoreapi\ErrorResponse.class
